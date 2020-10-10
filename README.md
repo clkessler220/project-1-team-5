@@ -8,8 +8,7 @@
 #### •	What’s the best university to attend for a higher starting & mid-career salary?
 We found that the best university to attend for the highest starting salary was California Institute of Technology (CIT) with the average entry-level being $75,500 and cost of being $58,755. The lowest starting salary was from Villanova with an expected entry-level salary of $55,800 and the cost of tuition being $58,736.
 `
-#### • Which private & non-private universities have the highest earning potential.
-As it relates to early-career salary, the top three higher earning salaries come from: <br>
+#### • Which private & non-private universities have the highest earning potential?
 &nbsp;&nbsp;• Early Career Salary (0-5 Years): <br>
 &nbsp;&nbsp;&nbsp;&nbsp;• Private <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Massachusetts Institute of Technology (MIT) - $81,500 <br>
@@ -19,6 +18,7 @@ As it relates to early-career salary, the top three higher earning salaries come
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Colorado School of Mines - $71,900 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• UC Berkeley - $65,400 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Virginia Military Institute - $62,200 <br>
+
 &nbsp;&nbsp;• Mid-Career Salary (5+ Years): <br>
 &nbsp;&nbsp;&nbsp;&nbsp;• Private <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• $62,200 - $155,800 <br>
