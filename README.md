@@ -10,7 +10,7 @@ We found that the best university to attend for the highest starting salary was 
 `
 #### • Which private & non-private universities have the highest earning potential.
 As it relates to early-career salary, the top three higher earning salaries come from:
-   • Early Career Salary (0-5 Years):
+   • Early Career Salary (0-5 Years): <br>
      • Private:
        • Massachusetts Institute of Technology (MIT) - $81,500
        • Harvey Mudd College - $81,000
