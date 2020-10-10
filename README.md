@@ -1,7 +1,7 @@
-# Project_1_Team_5
-## Higher Education Compared to Salaries
+# Higher Education Instituations Compared to Salaries
+## Project 1 - Team 5
 
-### The purpose of this project was to determine if attending a specific univeristy/college would increase potential income earnings.
+### The purpose of this project was to determine if attending a specific univeristy/college (i.e. private, public, ivy-league, etc.) would increase potential income earnings.
 
 ### Write-up of Findings
 •	What’s the best university to attend for a higher starting & mid-career salary?
