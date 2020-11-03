@@ -1,5 +1,4 @@
 # Higher Education Compared to Salaries
-## Project 1 - Team 5
 
 ## Objective
 The purpose of this project was to research if attending a private vs. non-private university/college could result in a higher income after graduating. We used Python as our primary programming language, Microsoft Excel for data clean-up, and Pandas for data analysis/manipulation in Jupyter Notebook.
