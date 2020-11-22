@@ -18,6 +18,7 @@ We found that the best university to attend for the highest starting salary was 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Colorado School of Mines - $71,900 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• UC Berkeley - $65,400 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Virginia Military Institute - $62,200 <br>
+![Starting Median](/StartingMedian_vs_salary.png)<br>
 
 &nbsp;&nbsp;• Mid-Career Salary (5+ Years): <br>
 &nbsp;&nbsp;&nbsp;&nbsp;• Private <br>
