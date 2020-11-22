@@ -18,7 +18,7 @@ We found that the best university to attend for the highest starting salary was 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Colorado School of Mines - $71,900 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• UC Berkeley - $65,400 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Virginia Military Institute - $62,200 <br>
-![Starting Median](/StartingMedian_vs_salary.png)<br>
+![Starting Salary](/https://github.com/clkessler220/project-1-team-5/blob/master/Figures/Starting%20Median%20vs%20salary.png)<br>
 
 &nbsp;&nbsp;• Mid-Career Salary (5+ Years): <br>
 &nbsp;&nbsp;&nbsp;&nbsp;• Private <br>
@@ -29,6 +29,7 @@ We found that the best university to attend for the highest starting salary was 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Colorado School of Mines - $136,100 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• UC Berkeley - $130,100 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• UC San Diego - $124,900 <br>
+![Mid-career Salary](/https://github.com/clkessler220/project-1-team-5/blob/master/Figures/Starting%26Mid%20carreer%20vs%20salary.png)<br>
        
 ### •	Would it be more beneficial to attend a private vs. a non-private university to earn more down the line?
 Based on our findings related to private and non-private colleges/universities, there was no direct correlation between mid-career salary and investment (undergrad tuition/4-year degree). 
