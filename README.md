@@ -3,6 +3,13 @@
 ## Objective
 The purpose of this project was to determine if attending a private vs. non-private university/college could result in a higher income after graduating. We used Python as our primary programming language, Microsoft Excel for data clean-up, and Pandas for data analysis/manipulation in Jupyter Notebook.
 
+## Technologies
+• Microsoft Excel<br>
+• Python<br>
+• Pandas<br>
+• Jupyter Notebook<br>
+
+
 ## Write-up of Findings
 
 ### •	What’s the best university to attend for a higher starting & mid-career salary?
@@ -17,7 +24,8 @@ We found that the best university to attend for the highest starting salary was 
 &nbsp;&nbsp;&nbsp;&nbsp;• Non-private <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Colorado School of Mines - $71,900 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• UC Berkeley - $65,400 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Virginia Military Institute - $62,200 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Virginia Military Institute - $62,200
+![](Figures/Starting%20Median%20vs%20salary.png)
 
 &nbsp;&nbsp;• Mid-Career Salary (5+ Years): <br>
 &nbsp;&nbsp;&nbsp;&nbsp;• Private <br>
@@ -27,7 +35,8 @@ We found that the best university to attend for the highest starting salary was 
 &nbsp;&nbsp;&nbsp;&nbsp;• Non-private <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Colorado School of Mines - $136,100 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• UC Berkeley - $130,100 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• UC San Diego - $124,900 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• UC San Diego - $124,900
+![](Figures/Starting%26Mid%20carreer%20vs%20salary.png)
        
 ### •	Would it be more beneficial to attend a private vs. a non-private university to earn more down the line?
 Based on our findings related to private and non-private colleges/universities, there was no direct correlation between mid-career salary and investment (undergrad tuition/4-year degree). 
